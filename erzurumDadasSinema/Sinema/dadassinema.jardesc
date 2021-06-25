@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Asus/Desktop/Kodlar/Sinema.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Sinema/dadassinema.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <javaElement handleIdentifier="=Sinema/src"/>
+    </selectedElements>
+</jardesc>
